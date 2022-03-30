@@ -1,5 +1,5 @@
 # Eye exercise
-<img src= "eye-exercise.png" width="300" />
+<img src= "eye-exercise.jpg" width="300" />
 
 ## Description
 
