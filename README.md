@@ -2,7 +2,7 @@
 <img src= "eye-exercise.jpg" width="300" />
 
 ## Description
-The eyes follows where your mouse goes. This project focused on using CSS and JavaScript work together.
+The eyes follow wherever your mouse goes. This project focused on using CSS and JavaScript to work together.
 
 ## How to run
 Clone all files in this repo to your local drive. Open the index.html file in a browser. Move your mouse, and eyes will follow where your mouse goes.
