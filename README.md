@@ -2,19 +2,15 @@
 <img src= "eye-exercise.jpg" width="300" />
 
 ## Description
-
 The eyes follows where your mouse goes. This project focused on using CSS and JavaScript work together.
 
 ## How to run
-
 Clone all files in this repo to your local drive. Open the index.html file in a browser. Move your mouse, and eyes will follow where your mouse goes.
 
 ## Roadmap of future improvements
-
 -add different shapes of eyes
 
 ## Licence
-
 Copyright 2020 John Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
